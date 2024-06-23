@@ -5,7 +5,7 @@ return (
     <div className="w-full flex items-center justify-center gap-3">
         <div className="w-full rounded-xl bg-[#012237] h-[50px] flex items-center gap-3 px-3 cursor-pointer">
             <Person cssClasses={"!fill-[#fdb224]"} />
-            <span className="font-semibold pr-4">Amirhossein shirzadi</span>
+            <span className="font-semibold pr-4">Amirhossein</span>
         </div>
         <div className="w-full rounded-xl bg-[#012237] h-[50px] flex items-center justify-center gap-3 px-3 cursor-pointer">
             <Rocket cssClasses={"!fill-[#fdb224]"}/>
