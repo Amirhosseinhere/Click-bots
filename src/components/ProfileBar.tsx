@@ -17,7 +17,7 @@ return (
         </div>
     </div>
     <div className="w-full rounded-xl bg-[#012237] h-[60px] flex items-center justify-center gap-3 px-3 cursor-pointer">
-        <LogoGithub cssClasses={"!fill-[#181717]"} width="32px" height="32px" />
+        <LogoGithub cssClasses={"!fill-[#E6EDF3]"} width="32px" height="32px" />
         <span className="font-semibold pr-4">Project source code</span>
     </div>
 </div>
