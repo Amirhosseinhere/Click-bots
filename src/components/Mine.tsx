@@ -61,7 +61,7 @@ return (
             </span>
         </div>
         <div className="w-full relative rounded-full h-[16px] bg-[#012237] border border-[#073755]">
-            <div className="absolute left-0 h-full rounded-full bg-gradient-to-r from-[#dc7b0c] to-[#fff973]"
+            <div className="absolute left-0 h-full rounded-full bg-gradient-to-r from-yellow-400 to-yellow-600"
             style={{width: `${energyPercentage}%`}}>
             </div>
         </div>
